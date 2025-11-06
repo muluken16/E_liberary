@@ -1,0 +1,454 @@
+[
+  {
+    "instruction": "Summarize the following document:",
+    "input": "E-Library Eldana Aragaw Table of Contents Product Development Roadmap Canvas 2 Problem Analysis Canvas 3 Value Proposition Canvas 6 MVP Prioritization for E-Library 8 Minimum Viable Customer Segment Prioritization 9 User Testing Canvas Framework 10 Vision Strategy Goals Key Features Milestones To close Ethiopia’s education  Develop a multilingual digital  Deliver equitable  Multilingual access (Amharic,  Year 1: Finalize platform (Amharic, Afaan access to up-to-date Afaan Oromo, Tigrigna, platform, pilot in 20 gap by providing inclusive, Oromo, Tigrigna, Somali). learning resources for Somali, etc.). schools, reach 5,000 affordable, and eco-friendly  Provide low-bandwidth and 100,000+ students by  Offline access hubs for rural users. digital learning resources offline access kits for Year 3. areas.  Year 2: Scale to 100 rural/remote communities. accessible in multiple local  Enhance teacher  Curriculum-aligned textbooks schools in 4 regions,  Leverage cloud infrastructure effectiveness and and interactive resources. introduce offline kits, languages—both online and and open-source technologies for student engagement  Voice-assisted search & reach 25,000 users. offline—to empower students, scalability. with interactive inclusive design.  Year 3: Expand  Build partnerships with teachers, and lifelong learners schools, NGOs, and government content.  Community engagement tools nationwide, integrate 4 nationwide. for curriculum alignment.  Reduce learning costs (forums, feedback, peer major local languages,  Integrate climate education by 35% through learning). reach 100,000+ users. modules for resilience and digital materials.  Year 5: Become awareness.  Contribute to Ethiopia’s leading Ethiopia’s digital digital education Key Metrics transformation and platform with regional climate goals. expansion.  User growth: number of  Differentiate from Stakeholders students/teachers onboarded. competitors through  Engagement: frequency of offline access,  Students & Teachers → logins, hours of content inclusivity, and Primary beneficiaries. consumed. curriculum  Schools & Universities →  Impact: % of students improving alignment. Integration partners. test scores.  NGOs & Donors → Funding,  Retention: monthly/annual active outreach, capacity building. users.  Government (MoE, Regional  Sustainability: CO₂ savings and Bureaus) → Policy support, trees preserved from reduced curriculum alignment. paper use.  Tech Partners (Ethio  Partnership growth: number of Telecom, startups) → schools, NGOs, and bureaus Connectivity, platform engaged development. Product Development Roadmap Canvas 1. What is the Problem? Root Cause Analysis: 5 Whys Expand on the “Who” Other stakeholders What? Problem: Students and institutions  Primary users: There is no centralized, affordable, and accessible lack access to quality educational Students (all levels),  Government / Ministry of Education: digital platform in Ethiopia for students, teachers, and resources. teachers. Curriculum alignment, policy support. institutions to buy, sell, or rent educational resources such as textbooks, exam prep materials, short notes,  Secondary users:  Publishers & Authors: Content creation, licensing, and monetization. and research projects. 1. Why? → Physical textbooks Schools, universities,  Tech providers / Payment platforms: and materials are expensive NGOs, libraries. Secure transactions, hosting, app Who? and limited in supply.  Content contributors: maintenance. 2. Why? → Printing, Local authors, teachers,  NGOs & Donors: Support outreach, digital  Students (primary, secondary, university) distribution, and logistics publishers, topliteracy initiatives.  Teachers and educators costs are high, especially for performing students.  Telecom companies: Provide internet  Schools, universities, and NGOs connectivity and low-bandwidth solutions. rural areas.  Indirect beneficiaries:  Content creators (authors, teachers,  Parents & Community leaders: Platform 3. Why? → No centralized Parents, community publishers) adoption, trust-building, and local promotion. digital platform exists for organizations, and affordable educational employers (via betterWhy? resources. educated youth).  Existing solutions are fragmented or 4. Why? → Previous digital unavailable. initiatives are fragmented,  Physical books are expensive, limited, and donor-dependent, or not often outdated. scalable.  International platforms are not localized, 5. Why? → Lack of affordable, or easy to access in Ethiopia. investment, infrastructure, and a sustainable marketplace model in Ethiopia. Problem Analysis Canvas Structured list of proposed solutions for the problem Ethio E-Library is addressing Solution # Proposed Solution 1 Develop a centralized digital library with textbooks, journals, and study materials. 2 Create a marketplace for buying, selling, and renting educational resources (books, exam prep, notes, projects). 3 Offer offline access and low-bandwidth support for rural and underserved areas. 4 Localize content in Amharic, Afaan Oromo, Tigrigna, and Somali. 5 Include exam preparation tools, past papers, and model answers. 6 Enable teachers and students to upload and share content safely, creating income opportunities. 7 Provide a mobile-friendly, user-friendly platform with voice-assisted search and progress tracking. 8 Integrate feedback loops and analytics for continuous improvement and content relevance. Here’s a prioritized scoring table for the top 3 solutions of E-Library based on Feasibility, Desirability, and Viability: Idea Proposed Solution Feasibility (1–10) Desirability (1–10) Viability (1–10) Total A Educational Marketplace (buy, sell, rent books, exam prep, notes, projects) 8 10 9 27 B Centralized Digital Library (textbooks, journals, study materials) 9 9 8 26 C Offline & Low-Bandwidth Access for rural areas 7 10 7 24 Value Proposition Canvas Value Proposition Customer Profile Product/Service Features Gain Creator Gains Customer Job Value Addition: - Centralized marketplace for - Easy access to learning Tasks / Activities: educational resources: - Centralizes access to textbooks, exam resources. textbooks, exam prep, notes, prep, notes, and projects for - Reduced cost of study  Students: Study, revise, and projects. convenience. materials. complete projects, access - Digital access with mobile- - Offers affordable and flexible - Convenience of rental/purchase options, reducing costs online/offline access. additional learning materials friendly and offline for students and schools. - Improved academic  Teachers: Share, organize, capabilities. - Provides income opportunities for success and exam preparation. and curate learning resources - L (A o m ca h l a l r a i n c g , u A a f g a e a n s u O p r p o o m rt o , teachers and content creators. - Income generation  Schools/Institutions: Provide - Supports better learning outcomes opportunities. up-to-date materials, reduce Tigrigna, Somali). through up-to-date, curriculum- - Inclusive participation - User-generated content: aligned resources. through local language support. costs, improve learning teachers and students can outcomes - - Community upload/share materials. collaboration via sharing, - Secure payment and rental Innovative Features: rating, and feedback. Features Sought: options. - Digital marketplace + rental  Offline access model unique in Ethiopia.  Local language support - Offline/low-bandwidth access  Marketplace for for rural and underserved areas. renting/sharing materials - Local language support (Amharic, Afaan Oromo,  Personalized recommendations Tigrigna, Somali). - Secure content sharing with  Progress tracking ratings and verification - Personalized content recommendations and progress tracking. Pain Reliever Pains Solutions to Challenges:  High costs for textbooks, exam prep  Provides affordable and flexible materials, and projects access to textbooks, exam prep,  Limited access to curriculumnotes, and projects. aligned content, especially in rural areas  Centralized platform reduces time  Time wasted searching for reliable spent searching for materials resources  Offline and low-bandwidth access  Connectivity issues preventing addresses connectivity issues. online learning  Local language support ensures  Outdated or irrelevant materials inclusivity  Low engagement or motivation due  Verified and rated content ensures to lack of interactive content  Exclusion or language barriers for quality. non-Amharic speakers Risk Mitigation: - Secure payment and content-sharing system. - Ratings and feedback system for trust and quality. - Analytics track engagement to improve content relevance. - Offline access reduces dependency on unstable internet. MVP Prioritization for E-Library No All Product/Service Components & Features Prioritized List (Essential / MVP (Key Essential Features) Nice-to-Have) 1 Centralized marketplace for textbooks, exam Essential Core marketplace with search and browse prep, notes, projects functionality 2 Digital access via mobile & desktop Essential Mobile-friendly interface for online access 3 Offline access / low-bandwidth mode Essential Downloadable content for offline use 4 Local language support (Amharic, Afaan Oromo, Essential Key languages for pilot regions Tigrigna, Somali) 5 User-generated content (teachers/students can Nice-to-Have Limited content upload by selected pilot upload/share) users 6 Secure payment / rental options Nice-to-Have Simple free-access model or token system for initial pilot 7 Personalized recommendations & progress Nice-to-Have Basic content bookmarking and simple tracking usage tracking 8 Ratings and feedback for content quality Nice-to-Have Optional user rating system for pilot phase Minimum Viable Customer Segment Prioritization Customer Segment Urgency of Need (1–10) Paying Capacity (1–10) Easement of Access (1–10) Total A – Students 9 4 8 21 B – Teachers 7 6 7 20 C – Schools / Institutions 8 8 5 21 User Testing Canvas Framework Testing Scenario/Format Customer Sub/Segment profile Results Proven/Validated: Demand for centralized - Scenario/Format: Prototype/MVP digital marketplace, offline access, local language - Who they are: Secondary school students, university students, demo sessions with guided tasks (e.g., support, and affordable rental/purchase options. and teachers. searching, renting, or uploading a Didn’t Work: Upload/sharing feature confusing; - What we know: They struggle with limited access to up-to-date textbooks, exam prep, and affordable learning materials. Many resource). rental/payment system unclear. - Where: Selected schools, universities, rely on photocopies, outdated books, or peer sharing. and community libraries in Addis - Why this segment: They experience the most urgent pain (lack Ababa and regional towns. of affordable, accessible resources) and stand to gain the most - Communication: In-person from Ethio E-Library. workshops, focus group discussions, - Where they are: Schools, universities, libraries, and online and follow-up via online surveys communities (Telegram, WhatsApp, Facebook, youth forums) (Telegram/WhatsApp) Motivation for solving their What further frustrations do they Learning & Insights problem: have? - Students: Affordable, 1. What went well: Users liked the centralized convenient access to up-to-date - They face high costs, outdated or marketplace, offline access, local language study materials. fragmented materials, lack of support, and affordable rental/purchase options. - Teachers: Platform to share local language content, poor 2. What went bad: Some users found navigation resources and earn income. curriculum alignment, and confusing, and uploading/sharing content as - Schools: Reduce costs, limited access in rural or lowwell as rental/payment features were unclear. improve student outcomes, and connectivity areas. 3. Next improvements: Simplify the interface, add ensure curriculum alignment. tutorials or tooltips, optimize offline access, and refine the rental/payment workflow. They are solving their problem by using photocopies, limited and outdated textbooks, small school libraries, and informal note-sharing among peers and teachers. Key Assumptions to Be Tested: Success Criteria: Next Steps:  Students prefer a digital marketplace over physical books.  At least 70% of users can find  Simplify the platform interface and  Offline access is essential for usability in low-connectivity and access materials without navigation for easier use. areas. assistance.  Add tutorials, guides, and tooltips for  Teachers are willing to upload and share learning materials.  Positive feedback on key features like uploading, renting,  Users are willing to pay small fees for rentals or purchases. affordability, offline access, and offline access.  Local language support increases engagement and and local language support.  Refine and test the rental/payment adoption.  Teachers successfully upload workflow to ensure clarity and ease of  Personalized recommendations improve learning outcomes and share content that students use. and retention. actively use.  Expand pilot testing to more schools,  Early adopters show universities, and community centers. willingness to pay for  Collect continuous feedback from users rentals/purchases. to iterate and improve features.  Monitor engagement metrics and Failure Criteria: adoption rates to validate assumptions and guide future development.  Users struggle to navigate the platform without guidance.  Negative feedback on usability, offline functionality, or local language support.  Teachers do not upload or share materials.  Users are unwilling to engage with the rental/payment system.",
+    "output": "E-Library\nEldana Aragaw Table of Contents\nProduct Development Roadmap Canvas 2\nProblem Analysis Canvas 3\nValue Proposition Canvas 6\nMVP Prioritization for E-Library 8\nMinimum Viable Customer Segment Prioritization 9\nUser Testing Canvas Framework 10 Vision Strategy Goals Key Features Milestones\nTo close Ethiopia’s education  Develop a multilingual digital  Deliver equitable  Multilingual access (Amharic,  Year 1: Finalize\nplatform (Amharic, Afaan access to up-to-date Afaan Oromo, Tigrigna, platform, pilot in 20\ngap by providing inclusive,\nOromo, Tigrigna, Somali). MVP Prioritization for E-Library\nNo All Product/Service Components & Features Prioritized List (Essential / MVP (Key Essential Features)\nNice-to-Have)\n1 Centralized marketplace for textbooks, exam Essential Core marketplace with search and browse\nprep, notes, projects functionality\n2 Digital access via mobile & desktop Essential Mobile-friendly interface for online\naccess\n3 Offline access / low-bandwidth mode Essential Downloadable content for offline use\n4 Local language support (Amharic, Afaan Oromo, Essential Key languages for pilot regions\nTigrigna, Somali)\n5 User-generated content (teachers/students can Nice-to-Have Limited content upload by selected pilot\nupload/share) users\n6 Secure payment / rental options Nice-to-Have Simple free-access model or token system\nfor initial pilot\n7 Personalized recommendations & progress Nice-to-Have Basic content bookmarking and simple\ntracking usage tracking\n8 Ratings and feedback for content quality Nice-to-Have Optional user rating system for pilot\nphase Minimum Viable Customer Segment Prioritization\nCustomer Segment Urgency of Need (1–10) Paying Capacity (1–10) Easement of Access (1–10) Total\nA – Students 9 4 8 21\nB – Teachers 7 6 7 20\nC – Schools / Institutions 8 8 5 21 User Testing Canvas Framework\nTesting Scenario/Format\nCustomer Sub/Segment profile Results\nProven/Validated: Demand for centralized\n- Scenario/Format: Prototype/MVP digital marketplace, offline access, local language\n- Who they are: Secondary school students, university students,\ndemo sessions with guided tasks (e.g., support, and affordable rental/purchase options. Problem Analysis Canvas Structured list of proposed solutions for the problem Ethio E-Library is addressing\nSolution # Proposed Solution\n1 Develop a centralized digital library with textbooks, journals, and study materials.  Teachers successfully upload workflow to ensure clarity and ease of\n Personalized recommendations improve learning outcomes and share content that students use. accessible in multiple local  Enhance teacher  Curriculum-aligned textbooks schools in 4 regions,\n Leverage cloud infrastructure\neffectiveness and and interactive resources."
+  },
+  {
+    "instruction": "Explain the concept 'access' in simple terms.",
+    "input": "",
+    "output": "The concept 'access' refers to ..."
+  },
+  {
+    "instruction": "Explain the concept 'content' in simple terms.",
+    "input": "",
+    "output": "The concept 'content' refers to ..."
+  },
+  {
+    "instruction": "Explain the concept 'students' in simple terms.",
+    "input": "",
+    "output": "The concept 'students' refers to ..."
+  },
+  {
+    "instruction": "Explain the concept 'offline' in simple terms.",
+    "input": "",
+    "output": "The concept 'offline' refers to ..."
+  },
+  {
+    "instruction": "Explain the concept 'materials' in simple terms.",
+    "input": "",
+    "output": "The concept 'materials' refers to ..."
+  },
+  {
+    "instruction": "Explain the concept 'teachers' in simple terms.",
+    "input": "",
+    "output": "The concept 'teachers' refers to ..."
+  },
+  {
+    "instruction": "Explain the concept 'digital' in simple terms.",
+    "input": "",
+    "output": "The concept 'digital' refers to ..."
+  },
+  {
+    "instruction": "Explain the concept 'local' in simple terms.",
+    "input": "",
+    "output": "The concept 'local' refers to ..."
+  },
+  {
+    "instruction": "Explain the concept 'learning' in simple terms.",
+    "input": "",
+    "output": "The concept 'learning' refers to ..."
+  },
+  {
+    "instruction": "Explain the concept 'resources' in simple terms.",
+    "input": "",
+    "output": "The concept 'resources' refers to ..."
+  },
+  {
+    "instruction": "Explain the concept 'users' in simple terms.",
+    "input": "",
+    "output": "The concept 'users' refers to ..."
+  },
+  {
+    "instruction": "Explain the concept 'support' in simple terms.",
+    "input": "",
+    "output": "The concept 'support' refers to ..."
+  },
+  {
+    "instruction": "Explain the concept 'schools' in simple terms.",
+    "input": "",
+    "output": "The concept 'schools' refers to ..."
+  },
+  {
+    "instruction": "Explain the concept 'platform' in simple terms.",
+    "input": "",
+    "output": "The concept 'platform' refers to ..."
+  },
+  {
+    "instruction": "Explain the concept 'textbooks' in simple terms.",
+    "input": "",
+    "output": "The concept 'textbooks' refers to ..."
+  },
+  {
+    "instruction": "Explain the concept 'language' in simple terms.",
+    "input": "",
+    "output": "The concept 'language' refers to ..."
+  },
+  {
+    "instruction": "Explain the concept 'affordable' in simple terms.",
+    "input": "",
+    "output": "The concept 'affordable' refers to ..."
+  },
+  {
+    "instruction": "Explain the concept 'exam' in simple terms.",
+    "input": "",
+    "output": "The concept 'exam' refers to ..."
+  },
+  {
+    "instruction": "Explain the concept 'marketplace' in simple terms.",
+    "input": "",
+    "output": "The concept 'marketplace' refers to ..."
+  },
+  {
+    "instruction": "Explain the concept 'features' in simple terms.",
+    "input": "",
+    "output": "The concept 'features' refers to ..."
+  },
+  {
+    "type": "multiple_choice",
+    "instruction": "Choose the correct option:",
+    "input": "E-Library\nEldana Aragaw Table of Contents\nProduct Development Roadmap Canvas 2\nProblem Analysis Canvas 3\nValue Proposition Canvas 6\nMVP Prioritization for E-Library 8\nMinimum Viable Customer Segment Prioritization 9\nUser Testing Canvas Framework 10 Vision Strategy Goals Key _____ Milestones\nTo close Ethiopia’s education  Develop a multilingual digital  Deliver equitable  Multilingual access (Amharic,  Year 1: Finalize\nplatform (Amharic, Afaan access to up-to-date Afaan Oromo, Tigrigna, platform, pilot in 20\ngap by providing inclusive,\nOromo, Tigrigna, Somali).",
+    "output": {
+      "answer": "Features",
+      "options": [
+        "Analysis",
+        "Multilingual",
+        "Features",
+        "Product"
+      ]
+    }
+  },
+  {
+    "type": "multiple_choice",
+    "instruction": "Choose the correct option:",
+    "input": "MVP Prioritization for E-Library\nNo All Product/Service Components & Features Prioritized List (Essential / MVP (Key Essential Features)\nNice-to-Have)\n1 Centralized marketplace for textbooks, exam Essential Core marketplace with search and browse\nprep, notes, projects functionality\n2 Digital access via mobile & desktop Essential Mobile-friendly interface for online\naccess\n3 Offline access / low-bandwidth mode Essential Downloadable content for offline use\n4 Local language support (Amharic, Afaan Oromo, Essential Key languages for pilot regions\nTigrigna, Somali)\n5 User-generated content (teachers/students can Nice-to-Have Limited content upload by selected pilot\nupload/share) users\n6 Secure payment / rental options Nice-to-Have Simple free-access model or token system\nfor initial pilot\n7 Personalized recommendations & progress Nice-to-Have Basic content bookmarking and simple\n_____ usage _____\n8 Ratings and feedback for content quality Nice-to-Have Optional user rating system for pilot\nphase Minimum Viable Customer Segment Prioritization\nCustomer Segment Urgency of Need (1–10) Paying Capacity (1–10) Easement of Access (1–10) Total\nA – Students 9 4 8 21\nB – Teachers 7 6 7 20\nC – Schools / Institutions 8 8 5 21 User Testing Canvas Framework\nTesting Scenario/Format\nCustomer Sub/Segment profile Results\nProven/Validated: Demand for centralized\n- Scenario/Format: Prototype/MVP digital marketplace, offline access, local language\n- Who they are: Secondary school students, university students,\ndemo sessions with guided tasks (e.g., support, and affordable rental/purchase options.",
+    "output": {
+      "answer": "tracking",
+      "options": [
+        "Proven/Validated",
+        "tracking",
+        "functionality",
+        "search"
+      ]
+    }
+  },
+  {
+    "type": "multiple_choice",
+    "instruction": "Choose the correct option:",
+    "input": "Problem Analysis Canvas Structured list of proposed solutions for the problem Ethio E-Library is addressing\nSolution # _____ Solution\n1 Develop a centralized digital library with textbooks, journals, and study materials.",
+    "output": {
+      "answer": "Proposed",
+      "options": [
+        "materials",
+        "Ethio",
+        "Proposed",
+        "Problem"
+      ]
+    }
+  },
+  {
+    "type": "multiple_choice",
+    "instruction": "Choose the correct option:",
+    "input": " Teachers successfully upload workflow to ensure clarity and ease of\n _____ recommendations improve learning outcomes and share content that students use.",
+    "output": {
+      "answer": "Personalized",
+      "options": [
+        "learning",
+        "recommendations",
+        "share",
+        "Personalized"
+      ]
+    }
+  },
+  {
+    "type": "multiple_choice",
+    "instruction": "Choose the correct option:",
+    "input": "accessible in multiple local  Enhance _____  Curriculum-aligned textbooks schools in 4 regions,\n Leverage cloud infrastructure\neffectiveness and and interactive resources.",
+    "output": {
+      "answer": "teacher",
+      "options": [
+        "teacher",
+        "accessible",
+        "Curriculum-aligned",
+        "Leverage"
+      ]
+    }
+  },
+  {
+    "type": "multiple_choice",
+    "instruction": "Choose the correct option:",
+    "input": " Contribute to Ethiopia’s leading\nEthiopia’s _____ _____ education\nKey Metrics transformation and platform with regional\nclimate goals.",
+    "output": {
+      "answer": "digital",
+      "options": [
+        "Metrics",
+        "Ethiopia",
+        "goals",
+        "digital"
+      ]
+    }
+  },
+  {
+    "type": "multiple_choice",
+    "instruction": "Choose the correct option:",
+    "input": "_____  Schools & Universities →\n Impact: % of students improving alignment.",
+    "output": {
+      "answer": "curriculum",
+      "options": [
+        "curriculum",
+        "students",
+        "improving",
+        "Universities"
+      ]
+    }
+  },
+  {
+    "type": "multiple_choice",
+    "instruction": "Choose the correct option:",
+    "input": "Root Cause _____: 5 Whys Expand on the “Who”\nOther stakeholders\nWhat?",
+    "output": {
+      "answer": "Analysis",
+      "options": [
+        "Cause",
+        "Other",
+        "Analysis",
+        "Expand"
+      ]
+    }
+  },
+  {
+    "type": "multiple_choice",
+    "instruction": "Choose the correct option:",
+    "input": " Telecom companies: Provide internet\n _____, universities, and NGOs connectivity and low-bandwidth solutions.",
+    "output": {
+      "answer": "Schools",
+      "options": [
+        "Provide",
+        "Schools",
+        "low-bandwidth",
+        "companies"
+      ]
+    }
+  },
+  {
+    "type": "multiple_choice",
+    "instruction": "Choose the correct option:",
+    "input": " Existing solutions are _____ or 4.",
+    "output": {
+      "answer": "fragmented",
+      "options": [
+        "Existing",
+        "fragmented",
+        "solutions"
+      ]
+    }
+  },
+  {
+    "type": "multiple_choice",
+    "instruction": "Choose the correct option:",
+    "input": "investment, infrastructure,\nand a sustainable\nmarketplace model in\n_____.",
+    "output": {
+      "answer": "Ethiopia",
+      "options": [
+        "investment",
+        "infrastructure",
+        "sustainable",
+        "Ethiopia"
+      ]
+    }
+  },
+  {
+    "type": "multiple_choice",
+    "instruction": "Choose the correct option:",
+    "input": "5 Include exam preparation tools, past _____, and model answers.",
+    "output": {
+      "answer": "papers",
+      "options": [
+        "tools",
+        "preparation",
+        "answers",
+        "papers"
+      ]
+    }
+  },
+  {
+    "type": "multiple_choice",
+    "instruction": "Choose the correct option:",
+    "input": "- Income generation  Schools/Institutions: Provide\n- Supports _____ learning outcomes opportunities.",
+    "output": {
+      "answer": "better",
+      "options": [
+        "better",
+        "Supports",
+        "generation",
+        "Schools/Institutions"
+      ]
+    }
+  },
+  {
+    "type": "multiple_choice",
+    "instruction": "Choose the correct option:",
+    "input": "costs, improve learning\nteachers and students can outcomes\n- - Community\n_____ materials.",
+    "output": {
+      "answer": "upload/share",
+      "options": [
+        "upload/share",
+        "learning",
+        "costs",
+        "materials"
+      ]
+    }
+  },
+  {
+    "type": "multiple_choice",
+    "instruction": "Choose the correct option:",
+    "input": "- Digital marketplace + rental\n Offline access\nmodel unique in _____.",
+    "output": {
+      "answer": "Ethiopia",
+      "options": [
+        "Ethiopia",
+        "rental",
+        "unique",
+        "model"
+      ]
+    }
+  },
+  {
+    "type": "multiple_choice",
+    "instruction": "Choose the correct option:",
+    "input": "renting/sharing materials\n- Local language _____\n(Amharic, Afaan Oromo,  Personalized\nrecommendations\nTigrigna, Somali).",
+    "output": {
+      "answer": "support",
+      "options": [
+        "support",
+        "Personalized",
+        "Oromo",
+        "materials"
+      ]
+    }
+  },
+  {
+    "type": "multiple_choice",
+    "instruction": "Choose the correct option:",
+    "input": "- Secure content sharing with  Progress tracking\nratings and verification\n- Personalized content\n_____ and progress\ntracking.",
+    "output": {
+      "answer": "recommendations",
+      "options": [
+        "sharing",
+        "recommendations",
+        "tracking",
+        "Personalized"
+      ]
+    }
+  },
+  {
+    "type": "multiple_choice",
+    "instruction": "Choose the correct option:",
+    "input": "Pain Reliever Pains\n_____ to Challenges:\n High costs for textbooks, exam prep\n Provides affordable and flexible materials, and projects\naccess to textbooks, exam prep,  Limited access to curriculum-\nnotes, and projects.",
+    "output": {
+      "answer": "Solutions",
+      "options": [
+        "access",
+        "Challenges",
+        "affordable",
+        "Solutions"
+      ]
+    }
+  },
+  {
+    "type": "multiple_choice",
+    "instruction": "Choose the correct option:",
+    "input": "improve student outcomes, and connectivity _____.",
+    "output": {
+      "answer": "areas",
+      "options": [
+        "connectivity",
+        "outcomes",
+        "areas",
+        "improve"
+      ]
+    }
+  },
+  {
+    "type": "multiple_choice",
+    "instruction": "Choose the correct option:",
+    "input": "learning resources for _____, etc.).",
+    "output": {
+      "answer": "Somali",
+      "options": [
+        "Somali",
+        "learning",
+        "resources"
+      ]
+    }
+  },
+  {
+    "type": "multiple_choice",
+    "instruction": "Choose the correct option:",
+    "input": "_____, reach 5,000\naffordable, and eco-friendly\n Provide low-bandwidth and 100,000+ students by  Offline access hubs for rural users.",
+    "output": {
+      "answer": "schools",
+      "options": [
+        "schools",
+        "100,000+",
+        "reach",
+        "students"
+      ]
+    }
+  },
+  {
+    "type": "multiple_choice",
+    "instruction": "Choose the correct option:",
+    "input": "digital learning _____ offline access kits for Year 3. areas.",
+    "output": {
+      "answer": "resources",
+      "options": [
+        "learning",
+        "resources",
+        "offline",
+        "areas"
+      ]
+    }
+  },
+  {
+    "type": "multiple_choice",
+    "instruction": "Choose the correct option:",
+    "input": " Year 2: Scale to 100\nrural/remote _____.",
+    "output": {
+      "answer": "communities",
+      "options": [
+        "rural/remote",
+        "communities",
+        "Scale"
+      ]
+    }
+  },
+  {
+    "type": "multiple_choice",
+    "instruction": "Choose the correct option:",
+    "input": "introduce offline kits,\nlanguages—both online and\nand open-source technologies for\nstudent engagement  _____ search & reach 25,000 users.",
+    "output": {
+      "answer": "Voice-assisted",
+      "options": [
+        "Voice-assisted",
+        "introduce",
+        "student",
+        "engagement"
+      ]
+    }
+  },
+  {
+    "type": "multiple_choice",
+    "instruction": "Choose the correct option:",
+    "input": " Year 3: Expand\n Build partnerships with\nteachers, and lifelong learners schools, NGOs, and government _____.",
+    "output": {
+      "answer": "content",
+      "options": [
+        "learners",
+        "schools",
+        "government",
+        "content"
+      ]
+    }
+  }
+]
